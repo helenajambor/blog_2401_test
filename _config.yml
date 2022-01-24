@@ -19,6 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 #
 # some information I liked, video tutorial: https://www.youtube.com/watch?v=fqFjuX4VZmU
+# a blog about setting up a blog: https://q-viper.github.io/2020/09/18/why-do-i-regret-not-knowing-about-gitHub-pages-earlier/
+
 
 
 title: My test of Jekyll site using GitLab Pages
